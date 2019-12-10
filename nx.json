@@ -16,6 +16,12 @@
     },
     "shared-ui-header": {
       "tags": ["scope:shared", "type:ui"]
+    },
+    "admin-app-e2e": {
+      "tags": []
+    },
+    "admin-app": {
+      "tags": ["scope:admin", "type:app"]
     }
   }
 }
