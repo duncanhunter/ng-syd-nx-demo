@@ -13,6 +13,9 @@
     },
     "public-app": {
       "tags": []
+    },
+    "shared-ui-header": {
+      "tags": ["scope:shared", "type:ui"]
     }
   }
 }
